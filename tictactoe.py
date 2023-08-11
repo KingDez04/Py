@@ -1,4 +1,5 @@
-# semi-colon to remove random numbers or metadata
+# TicTacToe using MinMax Algorithm
+# semi-colon to remove random numbers or metadata during gameplay
 
 def ConstBoard(board):
     print("Current state of the board: \n\n");
